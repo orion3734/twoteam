@@ -1,0 +1,71 @@
+@charset "UTF-8";
+@font-face{
+font-family:'park';
+src:url('/twoteam/fonts/BinggraeTaom-Bold.ttf') format('truetype');
+}
+*{
+	margin:0;
+	padding : 0;
+	font-family: 'park';
+}
+#qna_main{
+	background: #ECF6FA;
+}
+#h2{
+	margin-top:150px;
+	color: #E13C3C; 	
+}
+.main_button{
+	font-weight: bold;
+	/* color :#81BEF7; */
+	border :1px solid #ECF6FA ;
+	width: 250px;
+	height: 250px;
+	float: left;
+	margin-left: 170px;
+	
+}
+div h3{
+	color :#81BEF7;
+}
+/* 버튼  */
+#write{
+	background: none;
+	width: 100%;
+	height: 100%;
+	border: 0px;
+} 
+#h2{
+	margin-left: 400px;	
+}
+#comon{
+	background: none;
+	width: 100%;
+	height: 100%;
+	border: 0px;
+	margin-left: 200px;
+} 
+#money{
+	background: none;
+	width: 100%;
+	height: 100%;
+	border: 0;
+}
+#Terms{
+	background: none;
+	width: 100%;
+	height: 100%;
+	border: 0;
+}
+#qna{
+	background: none;
+	width: 100%;
+	height: 100%;
+	border: 0;
+	margin-left: 200px;
+}
+#comon_icon, #money_icon, #write_icon, #terms_icon,#qna_icon{
+	font-size : 40px;	
+	color : #08088A;
+}
+

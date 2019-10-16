@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+aside{
+	float:left;
+	width:330px;
+		font-size: 30px;
+}
+aside .one{
+	margin-top:150px;
+	margin-left:100px;
+	list-style: none;
+}
+
+aside .two{
+	margin-top:20px;
+	margin-left:150px;
+	list-style: none;
+}
+aside ul li a{
+	color: #5882FA;
+	font-size: 20px;
+	text-decoration: none;
+}
+section{
+	float:left;
+	margin-left:100px;
+	position: relative;
+}
+section div{
+	width:1210px;
+}

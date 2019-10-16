@@ -1,0 +1,29 @@
+@charset "UTF-8";
+section{
+float: left;
+}
+/* 양쪽 세로형식 */
+section #side table{
+margin-top:30px;
+	margin: auto;
+}
+section #side table thead tr{
+border-bottom: 2px solid;
+}
+section #side table thead tr th{
+margin-top:20px;
+margin-bottom:5px;
+margin-left: 50px;
+display:inline-block;
+}
+section #side table tbody tr td{
+margin-top:5px;
+display:inline-block;
+margin-left: 50px;
+}
+section #side table thead tr th:first-child {
+	margin-left: 20px;
+}
+section #side table tbody tr td:first-child {
+	margin-left: 20px;
+}

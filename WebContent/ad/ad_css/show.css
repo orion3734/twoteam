@@ -1,0 +1,25 @@
+@charset "UTF-8";
+section #show table{
+	margin-top:30px;
+	margin: auto;
+}
+section #show table thead tr{
+border-bottom: 2px solid;
+}
+section #show table thead tr th{
+margin-top:20px;
+margin-bottom:5px;
+margin-left: 50px;
+display:inline-block;
+}
+section #show table tbody tr td{
+margin-top:5px;
+display:inline-block;
+margin-left: 50px;
+}
+section #show table thead tr th:first-child {
+	margin-left: 20px;
+}
+section #show table tbody tr td:first-child {
+	margin-left: 20px;
+}

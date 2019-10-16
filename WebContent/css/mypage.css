@@ -1,0 +1,84 @@
+@charset "UTF-8";
+
+@font-face {
+	font-family: 'NanumGothic';
+	src: url(../font/NanumGothicBold.ttf) format('truetype');
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.head {
+	height: 150px;
+	width: 100%;
+}
+
+.cc {
+	height: 380px;
+	width: 1920px;
+	background: red;
+	border: 1px solid green;
+}
+
+#cont {
+	margin-top: 20px;
+}
+
+.card border-danger mt-3 mb-3 {
+	width: 30px;
+	height: 30px;
+}
+
+#mypage_main {
+	width: 500px;
+	height: 300px;
+	float: left;
+	margin-bottom: 20px;
+	margin-left: 100px;
+	
+}
+/* .container {
+	width: 30%;
+	height: 300px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 45px;
+	margin-bottom: 40px;
+	background: white;
+} */
+.table table-hover {
+	
+}
+
+#ww {
+	font-size: 30px;
+	text-align: center;
+}
+
+#id {
+	font-size: 24px;
+}
+
+#email {
+	font-size: 17px;
+	margin-top: 100px;
+	margin-left: 930px;
+	
+}
+
+strong {
+	margin-left: 960px;
+}
+/* #mypage_like {
+	height: 400px;
+	margin: 5px;
+} */
+#user_chainge {
+	margin-left: 900px;
+}
+
+.update{
+	margin-left: 50px;
+}

@@ -1,0 +1,52 @@
+@charset "UTF-8";
+#adv form{
+	margin: 100px;
+}
+#adv p{
+margin-top: 20px;
+margin-left: 150px;
+}
+#adv label{
+color:red;
+width:90px;
+margin-left: 20px;
+}
+#adv input{
+width:550px;
+}
+#adv #from{
+width:265px;
+}
+#adv #to{
+width:265px;/*  */
+}
+#adv #fe{
+   width: 0px;
+   height: 0px;
+   padding: 0;
+   margin: -1px;
+   overflow: hidden;
+   clip: rect(0, 0, 0, 0);
+   border: 0;
+}
+#adv #cn{
+margin-left: 640px;
+width:50px;
+}
+#adv input[type="button"]{
+margin-left:10px;
+width:50px;
+}
+#adv input[type="radio"]{
+width:50px;
+}
+#adv input[type="checkbox"]{
+width:50px;
+}
+#text{
+margin-left:20px;
+width: 650px;
+height:100px;
+  resize: none; 
+  
+}

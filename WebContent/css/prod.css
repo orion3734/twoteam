@@ -1,0 +1,41 @@
+
+ @charset "UTF-8";
+
+#adv {
+	bottom: 3%;
+	left: 30%;
+	position: fixed;
+}
+
+section div {
+	display: block;
+}
+
+.check {
+	margin-top: 100px;
+	height: 1300px;
+}
+
+.check div {
+	width: 330px;
+	height: 300px;
+	float: left;
+	margin-right: 40px;
+	margin-bottom: 40px;
+	margin-left: 100px;
+	overflow: hidden;
+}
+
+h4 {
+	color: black;
+}
+
+dl {
+	color: black;
+}
+
+.upper a {
+	font-size: 40px;
+	color: black;
+	text-decoration: none;
+}

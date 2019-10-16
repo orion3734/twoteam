@@ -1,0 +1,444 @@
+
+#aa, #bb, #cc{
+   border: 1px solid blue;
+   width: 100px;
+   height: 100px;
+   float: left;
+   margin-right: 300px;   
+}
+
+#btn {
+   float: right;
+   margin-left: 1200px;
+   position: fixed;
+   z-index: 6;
+   margin-top: 10px;
+}
+.btn {
+   font-family: 'Roboto Mono', monospace;
+   font-size: large;
+   color: white;
+   
+}
+.menubar li a {
+    
+    padding: 10px;
+}
+.headerimg {
+   width: 100%;
+   height: 10px;
+   position: fixed;
+   z-index: 5;
+   display: none;
+   opacity: 0.62;
+}
+
+.menubar {
+   text-align: center;
+   font-size: large;
+   float: rigtht;
+   background-color: white;
+   font-family: 'Do Hyeon', sans-serif;
+   font-family: 'Noto Sans KR', sans-serif;
+}
+
+#showimg2 > a>img{
+   margin-right: 100px;
+   margin-bottom: 40px;
+}
+#showimg1 > a>img{
+   margin-left: 45px;
+   margin-bottom: 40px;
+}
+#showimg4 > a{
+   margin-right: 30px;
+}
+#showimg6 > a{
+   margin-left: 30px;
+}
+
+#showtext{
+   margin-right: 70px;
+
+}
+#showtext>a>h1{
+   font-size: 60px;
+   font: bold;
+   font-family: 'East Sea Dokdo', cursive;
+}
+.showwrap div {
+   display: inline-block;   
+}
+.showwrap{
+   width:1300px;
+   margin-top: 50px;
+}
+
+.menubar a {
+   color: white;
+   padding: 10px;
+   font-size:x-large;;
+}
+.menubar a:hover {
+   color: black;
+   padding: 10px;
+   font-size:x-large;;
+}
+#menuwrap {
+   position: fixed;
+   z-index: 6;
+}
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 100%;
+    height: 900px;
+    width: 100%;
+}   
+#search > input[type=text]{
+   width: 1000px;
+   height: 50px;
+   border: 1.5px solid black;
+   border-radius: 10px;
+   text-align: center;
+   margin-left:350px;
+}
+
+#search{
+   padding: 10px;
+   background-color: black;
+   
+}
+#searchimg{
+   width: 45px;
+   height: 45px;
+   border-radius: 10px;
+}
+#banner img {
+   width: 100%;
+   height: 900px;
+   text-align: center;
+   overflow: hidden;
+   position: absolute;
+   z-index: 1;
+   background-repeat: repeat;
+}
+
+#top {
+   font-size: 70px;
+   text-align: center;
+   width: 100%;
+}
+#search > button{
+   background-color: black;
+   border: 1px solid black;
+}
+.carousel-indicators {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    z-index: 15;
+    width: 60%;
+    padding-left: 30px;
+    text-align: center;
+    list-style: none;
+}
+
+.main_bg {
+   background-color: #F3E5F5;
+   z-index: 4;
+}
+
+li {
+   list-style: none;
+   float: left;
+}
+
+ul {
+   margin-left: 300px;
+   margin-top: 20px;
+}
+
+li>a {
+   margin-right: 50px;
+}
+
+.navbar {
+   position: fixed;
+   min-height: 50px;
+   z-index: 5;
+   border: 1px solid transparent;
+}
+
+.carousel-indicators{
+   margin-left: 1px;
+}
+
+.main_bg2{
+   background-color: #E0F4FF;
+   height: 700px;
+}
+
+body > form > div.main_bg2 > div{
+   margin-top: 0px;
+}
+
+
+body > form > div.main_bg > div{
+   margin: 200px;
+}
+
+.carousel-indicators {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    z-index: 15;
+    width: 60%;
+    /* padding-left: 30px; */
+    text-align: center;
+    list-style: none;
+}   
+
+.top_img {
+    float: left;
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+    margin: 30px;
+    overflow: hidden;
+}
+.top_img_title{
+   width: 400px;
+   height: 200px;
+   font-size: xx-large;
+   margin:155px;
+}
+
+#top_frm tr td{
+   float: left;
+   display: inline-block;
+}
+
+
+
+
+#aa, #bb, #cc{
+   border: 1px solid blue;
+   width: 100px;
+   height: 100px;
+   float: left;
+   margin-right: 300px;   
+}
+
+#btn {
+   float: right;
+   margin-left: 1200px;
+   position: fixed;
+   z-index: 6;
+   margin-top: 10px;
+}
+.btn {
+   font-family: 'Roboto Mono', monospace;
+   font-size: large;
+   color: white;
+   
+}
+.menubar li a {
+    
+    padding: 10px;
+}
+.headerimg {
+   width: 100%;
+   height: 10px;
+   position: fixed;
+   z-index: 5;
+   display: none;
+   opacity: 0.62;
+}
+
+.menubar {
+   text-align: center;
+   font-size: large;
+   float: rigtht;
+   background-color: white;
+   font-family: 'Do Hyeon', sans-serif;
+   font-family: 'Noto Sans KR', sans-serif;
+}
+
+#showimg2 > a>img{
+   margin-right: 100px;
+   margin-bottom: 40px;
+}
+#showimg1 > a>img{
+   margin-left: 45px;
+   margin-bottom: 40px;
+}
+#showimg4 > a{
+   margin-right: 30px;
+}
+#showimg6 > a{
+   margin-left: 30px;
+}
+
+#showtext{
+   margin-right: 70px;
+
+}
+#showtext>a>h1{
+   font-size: 60px;
+   font: bold;
+   font-family: 'East Sea Dokdo', cursive;
+}
+.showwrap div {
+   display: inline-block;   
+}
+.showwrap{
+   width:1300px;
+   margin-top: 50px;
+}
+
+.menubar a {
+   color: white;
+   padding: 10px;
+   font-size:x-large;;
+}
+.menubar a:hover {
+   color: black;
+   padding: 10px;
+   font-size:x-large;;
+}
+#menuwrap {
+   position: fixed;
+   z-index: 6;
+}
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 100%;
+    height: 900px;
+    width: 100%;
+}   
+#search > input[type=text]{
+   width: 1000px;
+   height: 50px;
+   border: 1.5px solid black;
+   border-radius: 10px;
+   text-align: center;
+   margin-left:350px;
+}
+
+#search{
+   padding: 10px;
+   background-color: black;
+   
+}
+#searchimg{
+   width: 45px;
+   height: 45px;
+   border-radius: 10px;
+}
+#banner img {
+   width: 100%;
+   height: 900px;
+   text-align: center;
+   overflow: hidden;
+   position: absolute;
+   z-index: 1;
+   background-repeat: repeat;
+}
+
+#top {
+   font-size: 70px;
+   text-align: center;
+   width: 100%;
+}
+#search > button{
+   background-color: black;
+   border: 1px solid black;
+}
+.carousel-indicators {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    z-index: 15;
+    width: 60%;
+    padding-left: 30px;
+    text-align: center;
+    list-style: none;
+}
+
+.main_bg {
+   background-color: #F3E5F5;
+   z-index: 4;
+}
+
+li {
+   list-style: none;
+   float: left;
+}
+
+ul {
+   margin-left: 300px;
+   margin-top: 20px;
+}
+
+li>a {
+   margin-right: 50px;
+}
+
+.navbar {
+   position: fixed;
+   min-height: 50px;
+   z-index: 5;
+   border: 1px solid transparent;
+}
+
+.carousel-indicators{
+   margin-left: 1px;
+}
+
+.main_bg2{
+   background-color: #E0F4FF;
+   height: 700px;
+}
+
+body > form > div.main_bg2 > div{
+   margin-top: 0px;
+}
+
+
+body > form > div.main_bg > div{
+   margin: 200px;
+}
+
+.carousel-indicators {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    z-index: 15;
+    width: 60%;
+    /* padding-left: 30px; */
+    text-align: center;
+    list-style: none;
+}   
+
+.top_img {
+    float: left;
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+    margin: 30px;
+    overflow: hidden;
+}
+.top_img_title{
+   width: 400px;
+   height: 200px;
+   font-size: xx-large;
+   margin:155px;
+}
+
+#top_frm tr td{
+   float: left;
+   display: inline-block;
+}
+
+
+
